@@ -23,7 +23,7 @@ cd My-CV
 - `about.html` — Rreth meje: të dhënat personale + aftësitë
 - `portfolio.html` — Projektet
 - `blogs.html` — Blogu
-- `contact.html` — Kontakt: Tiranë, Shqipëri · +355 699 552 080 · erjonnezhaa@gmail.com
+- `contact.html` — Kontakt: Tiranë, Shqipëri · +355 6XX XXX XXX · shembull@example.com
 
 ## Teknologjitë
 
@@ -60,7 +60,7 @@ cd My-CV
 - `about.html` — About: personal info + skills
 - `portfolio.html` — Projects
 - `blogs.html` — Blog
-- `contact.html` — Contact: Tirana, Albania · +355 699 552 080 · erjonnezhaa@gmail.com
+- `contact.html` — Contact: Tirana, Albania · +355 6XX XXX XXX · shembull@example.com
 
 ## Tech
 
