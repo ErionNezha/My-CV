@@ -31,7 +31,7 @@ HTML5, CSS3 (me SCSS), Font Awesome 5 — pa JavaScript framework, pa build-step
 
 ## Licenca
 
-MIT — shiko [LICENSE](LICENSE). Copyright (c) 2026 Erion Nezha.
+Të gjitha të drejtat e rezervuara © 2026 Erion Nezha — shiko [LICENSE](LICENSE).
 
 ---
 
@@ -68,4 +68,4 @@ HTML5, CSS3 (with SCSS source), Font Awesome 5 — no JS framework, no build ste
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Copyright (c) 2026 Erion Nezha.
+All rights reserved © 2026 Erion Nezha — see [LICENSE](LICENSE).
